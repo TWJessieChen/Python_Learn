@@ -43,8 +43,8 @@ Step 6:
 
 
 ## 專案文件說明
-1.Hello World
-2.Day01(main.py, input.py)
+1.Hello World 
+2.Day01(main.py, input.py, operator.py, circles_calculate.py, leap_year.py, temperature_conversion.py) 
 
 
 
