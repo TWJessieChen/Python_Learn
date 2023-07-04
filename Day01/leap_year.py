@@ -1,6 +1,6 @@
 #Leap Year function(閏年判斷)
 
-#Leap year operators(圓的計算)
+#Leap year operators(閏年判斷)
 def leap_year_operators(): 
     year = int(input('輸入年份: '))
     is_leap = year % 4 == 0 and year % 100 != 0 or \

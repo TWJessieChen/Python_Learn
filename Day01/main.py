@@ -1,11 +1,10 @@
 #變數 & 型態
 
-
 #變數名稱 = 變數值
 def print_var(): 
     a = 321 #變數a = 整數321
     b = 12  #變數b = 整數12
-    print('a + b : ' a + b)    # 333   #變數a + 變數b
+    print(a + b)    # 333   #變數a + 變數b
     print(a - b)    # 309   #變數a - 變數b
     print(a * b)    # 3852  #變數a * 變數b
     print(a / b)    # 26.75 #變數a / 變數b
@@ -26,15 +25,9 @@ def print_var_type():
     print(type(e))    # <class 'bool'>
     print(type(f))    # <class 'NoneType'>
     
-
-
 # Main function
 if __name__ == '__main__':
    print_var()
    print_var_type()
-
-
-
-
 
 

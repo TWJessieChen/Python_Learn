@@ -1,4 +1,4 @@
-#Operator function
+#Operator function(運算子函式)
 
 # Arithmetic operators
 def arithmetic_operators(): 
@@ -22,8 +22,6 @@ def conditional_operators():
     print('flag3 =', flag3)    # flag3 = False
     print('flag4 =', flag4)    # flag4 = True
     print('flag5 =', flag5)    # flag5 = False
-
-
 
 # Main function
 if __name__ == '__main__':

@@ -45,6 +45,8 @@ Step 6:
 ## 專案文件說明
 1.Hello World 
 2.Day01(main.py, input.py, operator.py, circles_calculate.py, leap_year.py, temperature_conversion.py) 
+3.Day02(if_else.py, if_elif_else, unit_conversion.py, conversion_of_grades.py, calculate_area_triangle.py) 
+
 
 
 

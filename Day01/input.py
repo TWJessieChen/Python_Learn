@@ -1,6 +1,6 @@
 #Input function
 
-# Function: 輸入數字進行計算
+# Function: 輸入數字進行計算(整數)
 def input_int(): 
     # input() 輸入, int() 轉換成整數
     a = int(input('a = '))  
@@ -14,7 +14,7 @@ def input_int():
     print('%d %% %d = %d' % (a, b, a % b))
     print('%d ** %d = %d' % (a, b, a ** b))
 
-
+# Function: 輸入數字進行計算(浮點數)
 def input_float(): 
     # input() 輸入, float() 轉換成浮點數
     a = float(input('a = '))  
@@ -28,8 +28,8 @@ def input_float():
     print('%f %% %f = %f' % (a, b, a % b))
     print('%f ** %f = %f' % (a, b, a ** b))
 
-
 # Main function
 if __name__ == '__main__':
    input_int()
    input_float()
+
