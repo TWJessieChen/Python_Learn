@@ -43,10 +43,12 @@ Step 6:
 
 
 ## 專案文件說明
-1.Hello World 
+1.Hello World  
 2.Day01(main.py, input.py, operator.py, circles_calculate.py, leap_year.py, temperature_conversion.py)  
 3.Day02(if_else.py, if_elif_else, unit_conversion.py, conversion_of_grades.py, calculate_area_triangle.py)  
 4.Day03(for_in.py, while.py, nine_nine_multiplication_table.py, greatest_common_divisor_and_least_common_multiple.py, prime_number.py, print_triangle_pattern.py)  
+4.Day04(craps.py, math_amount.py, reversed.py)  
+
 
 
 
