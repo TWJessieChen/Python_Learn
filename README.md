@@ -48,6 +48,8 @@ Step 6:
 3.Day02(if_else.py, if_elif_else, unit_conversion.py, conversion_of_grades.py, calculate_area_triangle.py)  
 4.Day03(for_in.py, while.py, nine_nine_multiplication_table.py, greatest_common_divisor_and_least_common_multiple.py, prime_number.py, print_triangle_pattern.py)  
 4.Day04(craps.py, math_amount.py, reversed.py)  
+5.Day05(math_fac.py, roll_dice.py, module folder)  
+
 
 
 
